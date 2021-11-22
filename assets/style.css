@@ -1,0 +1,28 @@
+body {
+    background-image: url('img/box.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.circle {
+    height: 200px;
+    width: 200px;
+    background-color: #555;
+    border-radius: 50%;
+}
+
+.triangle-up {
+    width: 200px;
+    height: 200px;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid #555;
+    margin: 0 300px;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    background-color: #555;
+}
